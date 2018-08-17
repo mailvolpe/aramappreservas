@@ -12,4 +12,5 @@
     <allow-navigation href="*" />
     <icon src="icon.png" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
+    <gap:plugin name="cordova-plugin-whitelist" source="npm"/>
 </widget>
