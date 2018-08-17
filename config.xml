@@ -9,6 +9,7 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
+    <allow-navigation href="*" />
     <icon src="icon.png" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm"/>
 </widget>
