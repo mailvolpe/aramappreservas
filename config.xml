@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.com.aramhoteis.appreservas" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Hoteis Aram</name>
+    <description>
+        Aram Hoteis - Faça sua reserva
+    </description>
+    <author email="leomoreira@velty.com.br" href="http://velty.com.br">
+        Velty Digital
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
+</widget>
